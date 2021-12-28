@@ -168,6 +168,7 @@ R_Files/
 ### Files ###
 000.Spyder_Practice.txt
 01.Python_*.py
+my_modules.py
 
 # Support for Project snippet scope
 !.vscode/*.code-snippets
