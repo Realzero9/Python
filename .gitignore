@@ -166,7 +166,7 @@ Jump_to_Python_Practice/
 R_Files/
 
 ### Files ###
-000.Spyder_Practice.txt
+*.txt
 01.Python_*.py
 my_modules.py
 
