@@ -164,6 +164,7 @@ cython_debug/
 data/
 Jump_to_Python_Practice/
 R_Files/
+T_samples
 
 ### Files ###
 *.txt

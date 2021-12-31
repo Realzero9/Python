@@ -183,7 +183,7 @@ s5.map(lambda x: x[:x.find('@')])
 s1
 # 0    abc
 # 1    def
-dtype: object
+# dtype: object
 s1.str.pad(5,'left','!')
 # 0    !!abc
 # 1    !!def
