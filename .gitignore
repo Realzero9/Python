@@ -160,9 +160,9 @@ cython_debug/
 
 
 ### Folder ###
+.idea
 .pylint.d/
 data/
-Jump_to_Python_Practice/
 R_Files/
 T_samples
 
